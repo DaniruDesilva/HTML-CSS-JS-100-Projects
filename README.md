@@ -1,0 +1,1 @@
+Hello! I'm Daniru, an undergraduate at the University of Moratuwa with a passion for technology and web development. This repository is a testament to my enthusiasm for coding and my commitment to mastering the art of front-end development. Feel free to connect with me on LinkedIn or follow my GitHub for more exciting projects.
